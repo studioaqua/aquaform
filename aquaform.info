@@ -5,10 +5,10 @@ core = 7.x
 
 dependencies[] = features
 dependencies[] = uuid_features
-dependencies[] = features_extra
 dependencies[] = webform_features
 dependencies[] = webform_uuid
 dependencies[] = webform
+dependencies[] = webform_localization
 dependencies[] = aqua_form_features
 
 ;stylesheets[screen][] = css/aquaform.css
