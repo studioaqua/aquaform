@@ -1,0 +1,11 @@
+name = Aqua Form Features
+description = Define a standard contact form
+core = 7.x
+package = Aqua
+version = 7.x-1.0
+dependencies[] = features
+dependencies[] = webform
+__drupal_alter_by_ref[][node][webform] = webform
+features[features_api][] = api:2
+features[node][] = webform
+features[webform][] = contact_form
