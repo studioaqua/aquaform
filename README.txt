@@ -13,8 +13,8 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-This Drupal module define the Studio Aqua Form organism which implements
-a content slider.
+This Drupal module define the Studio Aqua Form organism. It implements
+a simple website contact form.
 
 
 REQUIREMENTS
